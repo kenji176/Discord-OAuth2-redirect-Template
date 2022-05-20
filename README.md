@@ -3,7 +3,7 @@
 簡単で使いやすいようにbootstrapを利用しています
 DiscordのOauth認証等に使ってください
  
-# DEMOPAGE
+# デモページ
  
 https://kenji176.github.io/Discord-OAuth2-redirect-Template/Example.html
  
