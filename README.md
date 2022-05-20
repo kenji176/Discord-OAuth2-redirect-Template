@@ -5,7 +5,7 @@ DiscordのOauth認証等に使ってください
  
 # デモページ
  
-https://kenji176.github.io/Discord-OAuth2-redirect-Template/EXAMPLE.html
+https://kenji176.github.io/Discord-OAuth2-redirect-Template/Example.html
  
 
 # Note
